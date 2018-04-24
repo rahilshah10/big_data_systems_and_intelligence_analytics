@@ -92,7 +92,7 @@ Yelp API - https://www.yelp.com/developers/documentation/v3/business_search
 * [Deep Learning Notebook](https://github.com/echeah/big_data_systems_and_intelligence_analytics/blob/master/rides_sharing_optimization_project/time_series_deep_learning_tensorflow.ipynb)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 A special thank you to __Professor Nik Bear Brown__ for providing guidance and thoughtful insights throughout the course of the project.
