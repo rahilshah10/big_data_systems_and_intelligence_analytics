@@ -9,16 +9,6 @@ CSYE 7245: Big Data Systems and Intelligence Analytics
 
 Spring 2018, Northeastern University College of Engineering
 
-## Content
-* [Abstract](#Abstract)
-* [Introduction](#Introduction)
-* [Getting Started](#Getting-Started)
-* [Getting the Data Needed](#Getting-the-Data-Needed)
-* [Getting Started](#Getting-Started)
-* [Navigating the Ride Sharing Optimization Project](#Navigating-the-Ride-Sharing-Optimization-Project)
-* [License](#License)
-* [Acknowledgments](#Acknowledgments)
-
 ## Abstract
 We are aspiring data scientists working on a project to predict the prices of ride sharing services Uber and Lyft. We have retrieved data from Uber and Lyft and applied linear regression, machine learning algorithms, the Moving Average model, deep learning with TensorFlow, and the Facebook Prophet package.
 
