@@ -72,6 +72,8 @@ Weather API - https://openweathermap.org/api
 
 Yelp API - https://www.yelp.com/developers/documentation/v3/business_search 
 
+The dataset headings glossary can be found [here](dataset_headings_glossary.docx).
+
 ## Navigating the Ride Sharing Optimization Project
 
 ##### Data Cleaning
